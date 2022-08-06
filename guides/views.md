@@ -5,10 +5,10 @@ A [view](/overview/kumus-architecture.html#views) is a collection of decorations
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/3zyf7sbgO7I" frameborder="0" allowfullscreen></iframe></p>
 
 ## Creating a new view
-Use the navigation at the top of your map and click the view dropdown menu on the right. Click "+ new view" and give the view a name.
+Locate the navigation menus at the top left of your map. Click the rightmost dropdown menu to select a view, then click "+ new view" and give the view a name.
 
 ## Switching views
-Switch between views using the navigation at the top of your map. You can also use a [view toggle control](/guides/controls/view-toggle-control.html) to allow readers to switch between [partial views](/guides/partial-views.html).
+Switch between views using the navigation at the top left of your map. You can also use a [view toggle control](/guides/controls/view-toggle-control.html) to allow readers to switch between [partial views](/guides/partial-views.html).
 
 ## Editing a view
 To edit a view, first select the view in the dropdown at the top of your map. Then, you can use the [Basic or Advanced Editor](/overview/view-editors.md) to make changes to it.
